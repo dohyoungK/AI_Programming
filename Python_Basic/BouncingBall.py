@@ -1,4 +1,4 @@
-'''201624419/KimDoHyoung/010-2399-0652'''
+'''201624419/KimDoHyoung'''
 
 coefficient = input("Enter coefficient of restitution: ")
 coefficient = float('0' + coefficient)
