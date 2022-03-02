@@ -10,5 +10,7 @@
   1. Define Search Algorithm(Hill Climbing) class
   2. Define Setup class
 
-+ version 4: Implement stochastic hill climbing algorithm, random restart algorithm, simulated annealing algorithm
++ version 4: Add stochastic hill climbing algorithm, random restart algorithm, simulated annealing algorithm
+
++ version 5: Add genetic algorithm
 
